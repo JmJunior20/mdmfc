@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.6rem;
+
+    text-align: center;
+}
+
+header {    
+    width: 37.5rem;
+    margin-inline: auto;
+    margin-top: 4.1rem;
+}
+
+img {
+    width: 35rem;
+}
+
+h1 {
+    font-size: 3.4rem;
+    line-height: 130%;
+    margin-bottom: 1.4rem;
+}
+p {
+    font-size: 1.8rem;
+    line-height: 150%;
+}
